@@ -1,48 +1,47 @@
 # Justin Rush
 <justin@gentlenews.com>
 
-#####Director of IT at FlightStats, Inc. 
-
 ## Summary
+
 Cross-team solution-wrangler, agile coach, and creative wood-chopper.
 
 ## Experience
 
 ### Director of IT at FlightStats, Inc.
-#### January 2012 - Present (3 years 8 months)
+> January 2012 - Present (3.5+ years)
 
 Responsible for in-house and cloud-based production infrastructure for internal applications and customerfacing
 products. Manage growing teams including DevOps, DataOps, NetOps, and internal support.
 
 ### Independent Consultant at Rush IT Consulting
-#### January 2009 - Present (6 years 8 months)
+> January 2009 - Present (6.67 years)
 
 Freelance installation, upgrade, and maintenance of custom IT solutions for small and enterprise businesses.
 
 ### Bassist at Rude King
-#### 2007 - Present (8 years)
+> 2007 - Present (8 years)
 
 Slap, pluck, sing, and make merry.
 
 
 ### IT Implementation Specialist at Time To Know
-#### December 2009 - March 2012 (2 years 4 months)
+> December 2009 - March 2012 (2.33 years)
 
 Responsible for installation, maintenance, and support of Time To Know's educational products.
 
 ### IT Manager at WiQuest Communications, Inc.
-#### March 2005 - December 2009 (4 years 10 months)
+> March 2005 - December 2009 (4.83 years)
 
 Responsible for all IT systems including compute farms, PBX servers, internet, intranet, and email/
 collaboration servers.
 
 ### Co-op Engineer at Alcatel-Lucent
-#### 2000 - 2004 (4 years)
+> 2000 - 2004 (4 years)
 
 EDA, Library Management, Desktop Support, Perl & shell scripting.
 
 
-### Skills & Expertise
+## Skills & Expertise
 * Servers
 * Software Development
 * Linux
@@ -96,8 +95,10 @@ EDA, Library Management, Desktop Support, Perl & shell scripting.
 
 ## Education
 ### The University of Texas at Dallas
-#### Bachelor of Science, Business Administration, Management Information Systems, 1999 - 2003
-Activities and Societies: School Newspaper, Staff Writer
+#### Bachelor of Science, Business Administration, Management Information System
+> 1999 - 2003
+
+Activities and Societies: School Newspaper Staff Writer
 
 
 ## Languages
