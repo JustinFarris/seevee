@@ -5,6 +5,8 @@
 
 Cross-team solution-wrangler, agile coach, and creative wood-chopper.
 
+---
+
 ## Experience
 
 ### Director of IT at FlightStats, Inc.
@@ -40,6 +42,7 @@ collaboration servers.
 
 EDA, Library Management, Desktop Support, Perl & shell scripting.
 
+---
 
 ## Skills & Expertise
 * Servers
@@ -92,6 +95,8 @@ EDA, Library Management, Desktop Support, Perl & shell scripting.
 * Git
 * Start-ups
 * Distributed Systems
+
+---
 
 ## Education
 ### The University of Texas at Dallas
