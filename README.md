@@ -101,7 +101,7 @@ Activities and Societies: School Newspaper, Staff Writer
 
 
 ## Languages
-*English (Native or bilingual proficiency)
+* English (Native or bilingual proficiency)
 * German (Limited working proficiency)
 
 ## Certifications
