@@ -20,7 +20,7 @@ products. Manage growing teams including DevOps, DataOps, NetOps, and internal s
 
 Freelance installation, upgrade, and maintenance of custom IT solutions for small and enterprise businesses.
 
-### Bassist at Rude King
+### Bassist/GUitarist/Vocalist at Rude King
 > 2007 - Present (10+ years)
 
 Slap, pluck, sing, and make merry.
@@ -34,7 +34,7 @@ Responsible for installation, maintenance, and support of Time To Know's educati
 ### IT Manager at WiQuest Communications, Inc.
 > March 2005 - December 2009 (4.83 years)
 
-Responsible for all IT systems including compute farms, PBX servers, internet, intranet, and email/
+Responsible for all IT systems and team-members including compute farms, PBX servers, internet, intranet, and email/
 collaboration servers.
 
 ### Co-op Engineer at Alcatel-Lucent
