@@ -12,7 +12,7 @@ Cross-team solution-wrangler, agile coach, and creative wood-chopper.
 ### Director of IT / Platform Engineering Lead at FlightStats, Inc. 
 > January 2012 - Present (5.5+ years)
 
-Responsible for in-house and cloud-based production infrastructure for internal applications and customerfacing
+Responsible for in-house and cloud-based production infrastructure for internal applications and customer-facing
 products. Manage growing teams including DevOps, DataOps, NetOps, and internal support.
 
 ### Independent Consultant at Rush IT Consulting
