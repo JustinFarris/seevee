@@ -9,7 +9,7 @@ Cross-team solution-wrangler, agile coach, and creative wood-chopper.
 
 ## Experience
 
-### Director of IT at FlightStats, Inc.
+### Director of IT at FlightStats, Inc. / Platform Engineering Lead
 > January 2012 - Present (5.5+ years)
 
 Responsible for in-house and cloud-based production infrastructure for internal applications and customerfacing
