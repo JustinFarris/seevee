@@ -20,7 +20,7 @@ products. Manage growing teams including DevOps, DataOps, NetOps, and internal s
 
 Freelance installation, upgrade, and maintenance of custom IT solutions for small and enterprise businesses.
 
-### Bassist/GUitarist/Vocalist at Rude King
+### Bassist/Guitarist/Vocalist at Rude King
 > 2007 - Present (10+ years)
 
 Slap, pluck, sing, and make merry.
