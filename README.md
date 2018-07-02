@@ -9,7 +9,7 @@ Cross-team solution-wrangler, agile coach, automation/orchestration evangelist, 
 
 ## Experience
 
-### Director of IT / Platform Engineering Lead at FlightStats, Inc. 
+### Director of IT / Platform Engineering Lead at FlightStats, Inc. (RELX) 
 > January 2012 - Present (6.5+ years)
 
 Responsible for in-house and cloud-based production infrastructure for internal applications and customer-facing
@@ -94,7 +94,7 @@ EDA, Library Management, Desktop Support, Perl & shell scripting.
 #### Bachelor of Science, Business Administration, Management Information System
 > 1999 - 2003
 
-Activities and Societies: School Newspaper Staff Writer
+Activities and Societies: School Newspaper Staff Writer, Collegium V Honors
 
 
 ## Languages
