@@ -10,7 +10,7 @@ Cross-team solution-wrangler, agile coach, automation/orchestration evangelist, 
 ## Experience
 
 ### Director of IT / Platform Engineering Lead at FlightStats, Inc. (RELX) 
-> January 2012 - Present (6.5+ years)
+>> January 2012 - Present (6.5+ years)
 
 Responsible for in-house and cloud-based production infrastructure for internal applications and customer-facing
 products. Manage growing teams including DevOps, DataOps, NetOps, and internal support.
