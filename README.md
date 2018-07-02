@@ -45,56 +45,47 @@ EDA, Library Management, Desktop Support, Perl & shell scripting.
 ---
 
 ## Skills & Expertise
-* Software Development
-* Linux
-* Perl
-* Infrastructure
+* Software Development/Engineering
+* Agile Team Management, Scrum
+* Infrastructure Planning
 * Virtualization
-* Unix
-* Agile Methodologies
-* Device Drivers
-* System Architecture
+* Containerization, Orchestration, and Immutable Infrastructure
+* Distributed Systems Architecture
 * Product Management
-* IT Strategy
-* Integration
-* International Project Management
-* WiFi
-* Software Engineering
-* TCP/IP
-* VoIP
-* Testing
-* Scrum
-* Embedded Systems
-* Embedded Software
+* IT/SRE Strategy
+* Continuous Testing, Integration, and Deployment
+* Distributed/International Project Management
+* TCP/IP, Network Security, and DNS Management
+* Secrets Management
+* Embedded Systems & Software
 * Information Technology
 * Debugging
-* ClearCase
-* XML
-* Wireless
-* Infrastructure Planning
-* VMware Infrastructure
-* Python
 * Configuration Management
-* containers (docker, k8s)
-* saltstack
-* Storage Solutions
-* Enterprise Storage
-* iSCSI
-* Cloud Computing
-* Data Center
-* Network Security
-* Amazon Web Services (AWS)
-* Amazon EC2
-* Amazon RDS
-* Amazon S3
-* DNS Management
-* Node.js
-* MySQL
-* PostgreSQL
+* Enterprise Storage Solutions
+* Cloud Computing, Data Center management
 * Web Services
-* Git
-* Start-ups
-* Distributed Systems
+
+## Platforms & Technologies
+* Linux, Unix, BSD, etc.
+* Amazon Web Services (AWS): EC2, RDS, S3, R53, CloudFront, ACM, IAM, etc.
+* docker, kubernetes
+* git
+* VMware Infrastructure
+* DB: PostgreSQL, MySQL, Oracle
+* jenkins
+* saltstack
+* Terraform
+* Python
+* node.js
+* Ruby
+* Go
+* Perl
+
+## Hobbies
+* Multi-instrumentalist Musician
+* 3d Design, 3d Printing, Physical Prototyping
+* Electromechanical Inventing, Tinkering, Mad Science
+
 
 ---
 
