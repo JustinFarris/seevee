@@ -15,8 +15,8 @@ Cross-team solution-wrangler, agile coach, and creative wood-chopper.
 Responsible for in-house and cloud-based production infrastructure for internal applications and customer-facing
 products. Manage growing teams including DevOps, DataOps, NetOps, and internal support.
 
-### Independent Consultant at Rush IT Consulting
-> January 2009 - Present (9.5+ years)
+### Owner at Rush IT Consulting
+> 2008 - Present (10+ years)
 
 Freelance installation, upgrade, and maintenance of custom IT solutions for small and enterprise businesses.
 
