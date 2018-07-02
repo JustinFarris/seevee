@@ -3,7 +3,7 @@
 
 ## Summary
 
-Cross-team solution-wrangler, agile coach, and creative wood-chopper.
+Cross-team solution-wrangler, agile coach, automation/orchestration evangelist, and creative wood-chopper.
 
 ---
 
@@ -45,7 +45,6 @@ EDA, Library Management, Desktop Support, Perl & shell scripting.
 ---
 
 ## Skills & Expertise
-* Servers
 * Software Development
 * Linux
 * Perl
