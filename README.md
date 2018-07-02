@@ -10,35 +10,35 @@ Cross-team solution-wrangler, agile coach, automation/orchestration evangelist, 
 ## Experience
 
 ### Director of IT / Platform Engineering Lead at FlightStats, Inc. (RELX) 
->> January 2012 - Present (6.5+ years)
+*January 2012 - Present (6.5+ years)*
 
 Responsible for in-house and cloud-based production infrastructure for internal applications and customer-facing
 products. Manage growing teams including DevOps, DataOps, NetOps, and internal support.
 
 ### Owner at Rush IT Consulting
-> 2008 - Present (10+ years)
+*2008 - Present (10+ years)*
 
 Freelance installation, upgrade, and maintenance of custom IT solutions for small and enterprise businesses.
 
 ### Guitarist/Bassist/Vocalist at Rude King
-> 2007 - Present (11+ years)
+*2007 - Present (11+ years)*
 
 Slap, pluck, sing, and make merry.
 
 
 ### IT Implementation Specialist at Time To Know
-> 2009 - 2012 (3 years)
+*2009 - 2012 (3 years)*
 
 Responsible for installation, maintenance, and support of Time To Know's educational products.
 
 ### IT Manager at WiQuest Communications, Inc.
-> 2005 - 2010 (5 years)
+*2005 - 2010 (5 years)*
 
 Responsible for all IT systems and team-members including compute farms, PBX servers, internet, intranet, and email/
 collaboration servers.
 
 ### Co-op Engineer at Alcatel-Lucent
-> 2000 - 2004 (4 years)
+*2000 - 2004 (4 years)*
 
 EDA, Library Management, Desktop Support, Perl & shell scripting.
 
@@ -92,7 +92,7 @@ EDA, Library Management, Desktop Support, Perl & shell scripting.
 ## Education
 ### The University of Texas at Dallas
 #### Bachelor of Science, Business Administration, Management Information System
-> 1999 - 2003
+*1999 - 2003*
 
 Activities and Societies: School Newspaper Staff Writer, Collegium V Honors
 
