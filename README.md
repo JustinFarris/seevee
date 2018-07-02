@@ -10,29 +10,29 @@ Cross-team solution-wrangler, agile coach, and creative wood-chopper.
 ## Experience
 
 ### Director of IT / Platform Engineering Lead at FlightStats, Inc. 
-> January 2012 - Present (5.5+ years)
+> January 2012 - Present (6.5+ years)
 
 Responsible for in-house and cloud-based production infrastructure for internal applications and customer-facing
 products. Manage growing teams including DevOps, DataOps, NetOps, and internal support.
 
 ### Independent Consultant at Rush IT Consulting
-> January 2009 - Present (8.5+ years)
+> January 2009 - Present (9.5+ years)
 
 Freelance installation, upgrade, and maintenance of custom IT solutions for small and enterprise businesses.
 
-### Bassist/Guitarist/Vocalist at Rude King
-> 2007 - Present (10+ years)
+### Guitarist/Bassist/Vocalist at Rude King
+> 2007 - Present (11+ years)
 
 Slap, pluck, sing, and make merry.
 
 
 ### IT Implementation Specialist at Time To Know
-> December 2009 - March 2012 (2.33 years)
+> 2009 - 2012 (3 years)
 
 Responsible for installation, maintenance, and support of Time To Know's educational products.
 
 ### IT Manager at WiQuest Communications, Inc.
-> March 2005 - December 2009 (4.83 years)
+> 2005 - 2010 (5 years)
 
 Responsible for all IT systems and team-members including compute farms, PBX servers, internet, intranet, and email/
 collaboration servers.
