@@ -9,8 +9,7 @@ Cross-team solution-wrangler, agile coach, automation/orchestration evangelist, 
 
 ## Experience
 
-### Director of IT / Platform Engineering Lead / Senior SRE
-### FlightStats, Inc. (RELX) 
+### Director of IT / Platform Engineering Lead / Senior SRE at FlightStats, Inc. (RELX) 
 *January 2012 - Present (6.5+ years)*
 
 Responsible for in-house and cloud-based production infrastructure for internal applications and customer-facing
