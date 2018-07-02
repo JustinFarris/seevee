@@ -1,5 +1,5 @@
 # Justin Rush
-[Email Justin](justin@gentlenews.com)
+[Email Justin](justin@gentlenews.com): justin @ gentlenews . com
 
 ## Summary
 
