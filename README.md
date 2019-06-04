@@ -9,19 +9,18 @@ Cross-team solution-wrangler, agile coach, automation/orchestration evangelist, 
 
 ## Experience
 
-### Director of IT / Platform Engineering Lead / Senior SRE at FlightStats, Inc. (RELX) 
-*January 2012 - Present (6.5+ years)*
+### Director of IT / Platform Engineering Lead / Senior SRE Manager at FlightStats, Inc. (RELX) 
+*January 2012 - Present (7+ years)*
 
-Responsible for in-house and cloud-based production infrastructure for internal applications and customer-facing
-products. Manage growing teams including DevOps, DataOps, NetOps, and internal support.
+Responsible for in-house and cloud-based production infrastructure for internal applications and customer-facing data products. Manage growing teams including DevOps, DataOps, NetOps, and internal support.
 
 ### Owner at Rush IT Consulting
-*2008 - Present (10+ years)*
+*2008 - Present (11+ years)*
 
 Freelance installation, upgrade, and maintenance of custom IT solutions for small and enterprise businesses.
 
 ### Guitarist/Bassist/Vocalist at Rude King
-*2007 - Present (11+ years)*
+*2007 - Present (12+ years)*
 
 Slap, pluck, sing, and make merry.
 
@@ -99,7 +98,7 @@ Activities and Societies: School Newspaper Staff Writer, Collegium V Honors
 
 ## Languages
 * English (Native or bilingual proficiency)
-* German (Limited working proficiency)
+* German (Working proficiency)
 
 ## Certifications
 * ITIL
