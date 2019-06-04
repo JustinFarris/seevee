@@ -74,16 +74,13 @@ EDA, Library Management, Desktop Support, Perl & shell scripting.
 * jenkins
 * saltstack
 * Terraform
-* Python
-* node.js
-* Ruby
-* Go
-* Perl
+* Scripting languages: Python, node.js, Ruby, Go, Perl
 
 ## Hobbies
 * Multi-instrumentalist Musician
 * 3d Design, 3d Printing, Physical Prototyping
 * Electromechanical Inventing, Tinkering, Mad Science
+* Baking
 
 
 ---
