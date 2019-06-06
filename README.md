@@ -46,7 +46,7 @@ EDA, Library Management, Desktop Support, Perl & shell scripting.
 ## Skills & Expertise
 * Software Development/Engineering
 * Agile Team Management, Scrum
-* Infrastructure Planning
+* Infrastructure Planning, Cost/Budget Analysis, Right-sizing
 * Virtualization
 * Containerization, Orchestration, and Immutable Infrastructure
 * Distributed Systems Architecture
