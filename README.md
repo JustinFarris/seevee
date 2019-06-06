@@ -9,7 +9,7 @@ Cross-team solution-wrangler, agile coach, automation/orchestration evangelist, 
 
 ## Experience
 
-### Director of IT / Platform Engineering Lead / Senior SRE Manager at FlightStats, Inc. (RELX) 
+### Director of IT / Platform Engineering Lead / Senior SRE Manager at Cirium (FlightStats/FlightGlobal/RELX) 
 *January 2012 - Present (7+ years)*
 
 Responsible for in-house and cloud-based production infrastructure for internal applications and customer-facing data products. Manage growing teams including DevOps, DataOps, NetOps, and internal support.
