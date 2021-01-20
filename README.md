@@ -9,7 +9,7 @@ Cross-team solution-wrangler, agile coach, automation/orchestration evangelist, 
 
 ## Experience
 
-### Senior SRE Manager / Platform Engineering Lead / Director at Cirium (FlightStats/FlightGlobal/RELX) 
+### Software Engineering Manager / SRE Manager / IT Director at Cirium (FlightStats/FlightGlobal/RELX) 
 *January 2012 - Present (8+ years)*
 
 Started as Director of IT & Infrastructure, transitioned organization to DevOps culture and SREs/SWEs. Responsible for in-house and cloud-based production infrastructure for internal applications and customer-facing data products. Manage growing teams including DevOps, DataOps, NetOps, and internal support.
@@ -83,7 +83,7 @@ EDA, Library Management, Desktop Support, Perl & shell scripting.
 * Multi-instrumentalist Musician
 * 3d Design, 3d Printing, Physical Prototyping
 * Electromechanical Inventing, Tinkering, Mad Science
-* Baking
+* Baking & Cuisine
 
 
 ---
